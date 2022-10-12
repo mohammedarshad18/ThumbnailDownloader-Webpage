@@ -1,0 +1,2 @@
+1 - C:\Program Files\Xampp\htdocs\
+2 - Paste PHP code here and type localhost/foldername/filename.php
